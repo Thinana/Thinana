@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thinana
+- 👋 Hi, I’m @Thinana.
 - 👀 I’m interested in data analytics field~
 - 🌱 I’m currently an MSBA student at Columbia University
 - 📫 How to reach me: hl3419@columbia.edu
